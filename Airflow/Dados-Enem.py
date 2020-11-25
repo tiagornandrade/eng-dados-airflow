@@ -5,7 +5,7 @@
 ## Software: Apache AirFlow                  ##
 ## Modalidade: Criação de DAG                ##
 ## Execução: Paralelismos - Dados Enade 2019 ##
-## Obs: Execução em Containers               ##
+## Obs: Execução em WSL2                     ##
 ##                                           ##
 ## Curso: BootCamp Engenheiro de Dados       ##    
 ## Instituição: IGTI                         ##
